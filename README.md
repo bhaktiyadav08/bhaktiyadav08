@@ -1,4 +1,4 @@
-## ~/Hey, i'm **Bhakti**
+## Hey, i'm **Bhakti**
 🎓 Computer Science & Engineering Student  
 💻 Backend-Focused Developer  
 🧠 Practicing Data Structures & Algorithms  
@@ -7,7 +7,7 @@
 ---
 
 
-### // currently working on
+### currently working on
 - ▶ Building a **predictive maintenance system** for a dialysis filtration prototype  
   `ESP32` + `FastAPI` + `PostgreSQL` + `scikit-learn` + `React`
 - ▶ Learning path: **Python → FastAPI → PostgreSQL → scikit-learn**
@@ -15,7 +15,7 @@
 
 ---
 
-### // tech stack
+### tech stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### // shipped
+### shipped
 | Project | Stack | Description |
 |---|---|---|
 | **ProjectHub** | Node · Socket.io · MongoDB | Real-time collaboration app, deployed on Render |
