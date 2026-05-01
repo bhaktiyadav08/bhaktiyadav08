@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Focused+Engineer;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhaktiyadav08&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -86,10 +82,10 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/bhaktiyadav">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/bhaktiyadav08">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
