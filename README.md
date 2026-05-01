@@ -34,34 +34,23 @@
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 DialySenseAI
-> IoT-based predictive maintenance system for dialysis machines  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaktiyadav08&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktiyadav08&theme=tokyonight" height="160"/>
+</p>
 
-- ⚙️ ESP32 + FastAPI + PostgreSQL + React  
-- 📊 Achieved **99.8% accuracy** using XGBoost  
-- ⚡ Real-time monitoring + fault prediction + RUL estimation  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiyadav08&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
----
-
-### 🔹 PageTurner
-> AI-powered e-commerce platform  
-
-- 🧠 Engineered **18 behavioral features**  
-- 🔄 Full ML pipeline (Frontend → Backend → Model)  
-- ⚡ Real-time recommendations
-
----
-
-### 🔹 Hariom Diagnostics
-> SEO-optimized client website  
-
-- 🌐 Built responsive website using HTML, CSS, JavaScript  
-- 📈 Improved visibility using Google Search Console & structured data  
-- 🚀 Live: https://hariomdiagnostics.onrender.com/
 ---
 
 ## 🔗 Connect
-- LinkedIn: https://linkedin.com/in/bhaktiyadav
+<p align="center">
+  <a href="https://linkedin.com/in/bhaktiyadav">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
