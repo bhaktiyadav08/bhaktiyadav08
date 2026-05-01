@@ -1,49 +1,66 @@
-## Hey, I'm **Bhakti**
+# Hey 👋, I'm **Bhakti**
+
 🎓 Computer Science & Engineering Student  
-💻 Backend-Focused Developer  
+💻 Backend-Focused Full-Stack Developer  
+🤖 Machine Learning Enthusiast  
 🧠 Practicing Data Structures & Algorithms  
-📚 Data Science Enthusiast
+
+---
+
+## 🚀 Currently Building
+- 🔧 **DialySenseAI** – IoT-based Predictive Maintenance System  
+  `ESP32` · `FastAPI` · `PostgreSQL` · `scikit-learn` · `React`  
+- 📈 Exploring **scalable backend systems & ML pipelines**
+- 🔥 Maintaining a daily **LeetCode** streak  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · C · C++ · Java  
+**Frontend:** React · HTML · CSS · Bootstrap  
+**Backend:** Node.js · Express · Flask · FastAPI  
+**Database:** MongoDB · MySQL · PostgreSQL  
+**ML:** Pandas · NumPy · Scikit-Learn · XGBoost  
+**Tools:** Git · GitHub · Render · Google Search Console  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 DialySenseAI  
+IoT-based predictive maintenance system for dialysis machines  
+- ⚙️ Integrated ESP32 sensors with full-stack system  
+- 📊 Achieved **99.8% accuracy** using XGBoost  
+- ⚡ Real-time monitoring + fault prediction + RUL estimation  
+
+---
+
+### 🔹 PageTurner  
+AI-powered e-commerce platform  
+- 🧠 Engineered **18 behavioral features**  
+- 🔄 Built full ML pipeline (Frontend → Backend → Model)  
+- ⚡ Real-time recommendation system  
+
+---
+
+### 🔹 ProjectHub  
+Real-time collaboration platform  
+- 🔗 Built using **Node.js + Socket.io + MongoDB**  
+- ⚡ Live updates and multi-user interaction  
+
+---
+
+### 🔹 Hariom Diagnostics  
+SEO-optimized client website  
+- 🌐 Improved visibility using **Google Search Console & schema markup**
+
+---
+
+## 📊 GitHub Stats
+![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaktiyadav08&show_icons=true)
 
 ---
 
 
-### Currently working on
-- ▶ Building a **predictive maintenance system** for a dialysis filtration prototype  
-  `ESP32` + `FastAPI` + `PostgreSQL` + `scikit-learn` + `React`
-- ▶ Learning path: **Python → FastAPI → PostgreSQL → scikit-learn**
-- ▶ Maintaining a daily **LeetCode** streak
-
----
-
-### Tech stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-FF6B35?style=flat&logo=googlesearchconsole&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### Shipped
-| Project | Stack | Description |
-|---|---|---|
-| **ProjectHub** | Node · Socket.io · MongoDB | Real-time collaboration app, deployed on Render |
-| **Hariom Diagnostics** | HTML · CSS · JS | Client site with SEO, Search Console & schema markup |
-| **Ecommerce website** | Vanilla Js  · Node · MongoDB | Full-fledged online shopping platform |
-
----
-
-*// open to collaborations, interesting problems and building impactful software projects*
+⭐ *Focused on building scalable systems and real-world impactful tech.*
