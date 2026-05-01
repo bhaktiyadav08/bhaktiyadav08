@@ -50,15 +50,14 @@
 
 - 🧠 Engineered **18 behavioral features**  
 - 🔄 Full ML pipeline (Frontend → Backend → Model)  
-- ⚡ Real-time recommendations  
+- ⚡ Real-time recommendations
 
 ---
 
-### 🔹 ProjectHub
-> Real-time collaboration platform  
+### 🔹 Hariom Diagnostics
+> SEO-optimized client website  
 
-- 🔗 Node.js + Socket.io + MongoDB  
-- ⚡ Multi-user live updates  
-
----
+- 🌐 Built responsive website using HTML, CSS, JavaScript  
+- 📈 Improved visibility using Google Search Console & structured data  
+- 🚀 Live: https://hariomdiagnostics.onrender.com/
 
