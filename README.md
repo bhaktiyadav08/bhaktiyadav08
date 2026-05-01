@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Bhakti </h1>
+<h1 align="center">Hey 👋, I'm Bhakti </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Focused+Engineer;Building+Real+World+Projects&center=true&width=500&height=45">
