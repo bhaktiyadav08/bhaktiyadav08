@@ -60,4 +60,8 @@
 - 🌐 Built responsive website using HTML, CSS, JavaScript  
 - 📈 Improved visibility using Google Search Console & structured data  
 - 🚀 Live: https://hariomdiagnostics.onrender.com/
+---
+
+## 🔗 Connect
+- LinkedIn: https://linkedin.com/in/bhaktiyadav
 
