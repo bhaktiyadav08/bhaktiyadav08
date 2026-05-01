@@ -1,66 +1,101 @@
-# Hey 👋, I'm **Bhakti**
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Bhakti Yadav</h1>
 
-🎓 Computer Science & Engineering Student  
-💻 Backend-Focused Full-Stack Developer  
-🤖 Machine Learning Enthusiast  
-🧠 Practicing Data Structures & Algorithms  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Focused+Engineer;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaktiyadav08&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 Currently Building
-- 🔧 **DialySenseAI** – IoT-based Predictive Maintenance System  
-  `ESP32` · `FastAPI` · `PostgreSQL` · `scikit-learn` · `React`  
-- 📈 Exploring **scalable backend systems & ML pipelines**
-- 🔥 Maintaining a daily **LeetCode** streak  
+## 🚀 About Me
+- 🎓 CSE Student passionate about **building real-world systems**
+- 💻 Backend-focused developer with full-stack experience  
+- 🤖 Working on **ML-powered and IoT-integrated applications**
+- 🧠 Practicing **Data Structures & Algorithms (LeetCode)**
+- 🎯 Goal: Build scalable and impactful tech solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · C · C++ · Java  
-**Frontend:** React · HTML · CSS · Bootstrap  
-**Backend:** Node.js · Express · Flask · FastAPI  
-**Database:** MongoDB · MySQL · PostgreSQL  
-**ML:** Pandas · NumPy · Scikit-Learn · XGBoost  
-**Tools:** Git · GitHub · Render · Google Search Console  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,react,nodejs,express,flask,mongodb,mysql,postgres,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML-XGBoost-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deployment-Render-green?style=for-the-badge" />
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 DialySenseAI  
-IoT-based predictive maintenance system for dialysis machines  
-- ⚙️ Integrated ESP32 sensors with full-stack system  
+### 🔹 DialySenseAI
+> IoT-based predictive maintenance system for dialysis machines  
+
+- ⚙️ ESP32 + FastAPI + PostgreSQL + React  
 - 📊 Achieved **99.8% accuracy** using XGBoost  
 - ⚡ Real-time monitoring + fault prediction + RUL estimation  
 
 ---
 
-### 🔹 PageTurner  
-AI-powered e-commerce platform  
+### 🔹 PageTurner
+> AI-powered e-commerce platform  
+
 - 🧠 Engineered **18 behavioral features**  
-- 🔄 Built full ML pipeline (Frontend → Backend → Model)  
-- ⚡ Real-time recommendation system  
+- 🔄 Full ML pipeline (Frontend → Backend → Model)  
+- ⚡ Real-time recommendations  
 
 ---
 
-### 🔹 ProjectHub  
-Real-time collaboration platform  
-- 🔗 Built using **Node.js + Socket.io + MongoDB**  
-- ⚡ Live updates and multi-user interaction  
+### 🔹 ProjectHub
+> Real-time collaboration platform  
 
----
-
-### 🔹 Hariom Diagnostics  
-SEO-optimized client website  
-- 🌐 Improved visibility using **Google Search Console & schema markup**
+- 🔗 Node.js + Socket.io + MongoDB  
+- ⚡ Multi-user live updates  
 
 ---
 
 ## 📊 GitHub Stats
-![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaktiyadav08&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaktiyadav08&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktiyadav08&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
+## 🔥 Activity Graph
 
-⭐ *Focused on building scalable systems and real-world impactful tech.*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktiyadav08&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ <i>Building scalable systems, learning every day, and turning ideas into reality.</i>
+</p>
