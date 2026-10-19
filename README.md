@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-header.svg" alt="Bhakti Yadav - Full-Stack // ML Engineer" width="100%"/>
+  <img src="./neon-header.svg" alt="Bhakti Yadav - Full-Stack // ML Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🤝 **[ProjectHub](https://github.com/bhaktiyadav08/ProjectHub)**: real-time project collaboration platform
 
 <p align="center">
-  <img src="./assets/neon-stack.svg" alt="Tech stack" width="100%"/>
+  <img src="./neon-stack.svg" alt="Tech stack" width="100%"/>
 </p>
 
 <p align="center">
