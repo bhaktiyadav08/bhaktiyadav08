@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./neon-header.svg" alt="Bhakti Yadav - Full-Stack // ML Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:a371f7&height=200&section=header&text=Bhakti%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20%C2%B7%20ML%20Engineer&descAlignY=64&descSize=20" />
 </p>
 
 <p align="center">
