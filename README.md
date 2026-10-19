@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:a371f7&height=200&section=header&text=Bhakti%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20%C2%B7%20ML%20Engineer&descAlignY=64&descSize=20" />
+  <img src="./assets/neon-header.svg" alt="Bhakti Yadav - Full-Stack // ML Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,16 +12,8 @@
 - 📚 **[PageTurner AI](https://github.com/bhaktiyadav08/PageTurner-AI)**: AI-powered bookstore
 - 🤝 **[ProjectHub](https://github.com/bhaktiyadav08/ProjectHub)**: real-time project collaboration platform
 
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,flask,mongodb,mysql,git,github&perline=10" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<p align="center">
+  <img src="./assets/neon-stack.svg" alt="Tech stack" width="100%"/>
 </p>
 
 <p align="center">
